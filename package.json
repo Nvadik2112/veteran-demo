@@ -1,0 +1,25 @@
+{
+  "name": "submarine-veterans",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@terwanerik/scrolltrigger": "terwanerik/scrolltrigger",
+    "animate.css": "^4.1.1",
+    "core-js": "^3.8.3",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.12",
+    "vue-moment": "^4.1.0",
+    "vue-video-player": "^5.0.2",
+    "vuetify-media-player": "^0.8.1",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
